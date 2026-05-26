@@ -1,0 +1,17 @@
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/loan/LoanStatus.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/payment/PaymentRepository.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/payment/PaymentService.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/loan/LoanController.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/LoanSystemApplication.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/payment/dto/PaymentResponse.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/payment/exception/InvalidPaymentException.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/loan/LoanRepository.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/common/exception/GlobalExceptionHandler.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/payment/Payment.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/payment/dto/PaymentRequest.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/common/exception/LoanNotFoundException.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/loan/dto/LoanRequest.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/loan/Loan.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/loan/dto/LoanResponse.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/loan/LoanService.java
+/Users/mamelomongwe/Documents/GitHub/loan-payment-system/src/main/java/com/example/loansystem/payment/PaymentController.java

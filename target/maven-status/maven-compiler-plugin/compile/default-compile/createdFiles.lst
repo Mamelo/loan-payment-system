@@ -1,0 +1,8 @@
+com/example/loansystem/loan/Loan.class
+com/example/loansystem/loan/LoanRepository.class
+com/example/loansystem/payment/Payment.class
+com/example/loansystem/LoanSystemApplication.class
+com/example/loansystem/loan/LoanController.class
+com/example/loansystem/payment/PaymentController.class
+com/example/loansystem/loan/LoanStatus.class
+com/example/loansystem/payment/PaymentRepository.class
